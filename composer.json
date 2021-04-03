@@ -1,0 +1,10 @@
+{
+    "name": "globalindex/php-framework-core",
+    "authors": [
+        {
+            "name": "Dietrich Bojko",
+            "email": "webinteger@gmail.com"
+        }
+    ],
+    "require": {}
+}
