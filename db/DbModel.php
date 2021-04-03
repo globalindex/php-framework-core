@@ -8,10 +8,10 @@
  * @file: DbModel.php
  */
 
-namespace App\core\db;
+namespace globalindex\phpmvc\db;
 
-use App\core\Application;
-use App\core\Model;
+use globalindex\phpmvc\Application;
+use globalindex\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

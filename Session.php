@@ -8,7 +8,7 @@
  * @file: Session.php
  */
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
 class Session
 {

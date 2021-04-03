@@ -8,7 +8,7 @@
  * @file: BaseMiddleware.php
  */
 
-namespace App\core\middlewares;
+namespace globalindex\phpmvc\middlewares;
 
 abstract class BaseMiddleware
 {

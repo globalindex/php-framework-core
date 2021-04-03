@@ -1,14 +1,14 @@
 <?php
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
-use App\core\db\Database;
-use App\core\db\DbModel;
+use globalindex\phpmvc\db\Database;
+use globalindex\phpmvc\db\DbModel;
 
 /**
  * Class Application
  * @autor Dietrich Bojko
- * @package namespace App\core
+ * @package namespace globalindex\phpmvc
  */
 class Application
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
-use App\core\exception\NotFoundException;
+use globalindex\phpmvc\exception\NotFoundException;
 
 /**
  * Class Router
  * @author Dietrich Bojko
- * @package namespace App\core
+ * @package namespace globalindex\phpmvc
  */
 class Router
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
 /**
  * Class Request
  * @autor Dietrich Bojko
- * @package namespace App\core
+ * @package namespace globalindex\phpmvc
  */
 class Request
 {

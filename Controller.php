@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
-use App\core\middlewares\BaseMiddleware;
+use globalindex\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

@@ -1,10 +1,17 @@
 {
     "name": "globalindex/php-framework-core",
+    "license": "MIT",
+    "description": "PHP MVC Framework for personal use.",
     "authors": [
         {
             "name": "Dietrich Bojko",
             "email": "webinteger@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "globalindex\\phpmvc": "./"
+        }
+    }
 }

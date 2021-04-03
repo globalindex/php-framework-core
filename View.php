@@ -8,7 +8,7 @@
  * @file: View.php
  */
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
 class View
 {

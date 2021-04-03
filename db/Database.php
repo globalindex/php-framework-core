@@ -8,14 +8,14 @@
  * @file: Database.php
  */
 
-namespace App\core\db;
+namespace globalindex\phpmvc\db;
 
-use App\core\Application;
+use globalindex\phpmvc\Application;
 
 /**
  * Class Database
  * @autor Dietrich Bojko
- * @package App\core
+ * @package globalindex\phpmvc
  */
 class Database
 {

@@ -8,7 +8,7 @@
  * @file: NotFoundException.php
  */
 
-namespace App\core\exception;
+namespace globalindex\phpmvc\exception;
 
 
 use Throwable;

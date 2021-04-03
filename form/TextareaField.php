@@ -8,7 +8,7 @@
  * @file: TextareaField.php
  */
 
-namespace App\core\form;
+namespace globalindex\phpmvc\form;
 
 class TextareaField extends BaseField
 {

@@ -8,9 +8,9 @@
  * @file: UserModel.php
  */
 
-namespace App\core;
+namespace globalindex\phpmvc;
 
-use App\core\db\DbModel;
+use globalindex\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

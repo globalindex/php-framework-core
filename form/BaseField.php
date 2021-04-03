@@ -8,9 +8,9 @@
  * @file: BaseField.php
  */
 
-namespace App\core\form;
+namespace globalindex\phpmvc\form;
 
-use App\core\Model;
+use globalindex\phpmvc\Model;
 
 abstract class BaseField
 {

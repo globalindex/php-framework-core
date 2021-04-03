@@ -8,7 +8,7 @@
  * @file: ForbiddenException.php
  */
 
-namespace App\core\exception;
+namespace globalindex\phpmvc\exception;
 
 class ForbiddenException extends \Exception
 {

@@ -8,11 +8,11 @@
  * @file: AuthMiddleware.php
  */
 
-namespace App\core\middlewares;
+namespace globalindex\phpmvc\middlewares;
 
 
-use App\core\Application;
-use App\core\exception\ForbiddenException;
+use globalindex\phpmvc\Application;
+use globalindex\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {
